@@ -95,5 +95,5 @@ CineSearch/
 Luiz Almeida  
 [GitHub](https://github.com/LuizAmeida)
 
-[Linkedin](www.linkedin.com/in/luizmarques84)
+[Linkedin](https://www.linkedin.com/in/luizmarques84)
 ````
