@@ -80,31 +80,20 @@ CineSearch/
 ### Executar Localmente
 ```bash
 # Abra o arquivo index.html no navegador
-# ou use um servidor local:
-(http://127.0.0.1:5501/index.html)
 ````
 
-## Personalização
-### Para adicionar novos filmes, edite o arquivo data.json:
+## Deploy
 
+🔗 **Site Online**: https://luizameida.github.io/Imersao_Dev_Alura/
+
+## Repositório
+
+📂 **Código Fonte**: https://github.com/LuizAmeida/Imersao_Dev_Alura
+
+## Autor
+
+Luiz Almeida  
+[GitHub](https://github.com/LuizAmeida)
+
+[Linkedin](www.linkedin.com/in/luizmarques84)
 ````
-{
-    "nome": "Nome do Filme",
-    "descricao": "Descrição detalhada...",
-    "ano_lancamento": "2024",
-    "diretor": "Nome do Diretor",
-    "link_oficial": "https://www.imdb.com/title/...",
-    "tags": ["gênero1", "gênero2", "gênero3"]
-}
-````
-
-## 🎯 Funcionalidades
-- Busca em tempo real por múltiplos critérios
-- Interface limpa e intuitiva
-- Cards informativos com detalhes completos
-- Links para páginas oficiais no IMDb
-- Design responsivo para todos os dispositivos
-
-👨‍💻 Autor
-Luiz Almeida
-GitHub
