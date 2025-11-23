@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CineSearch - Busca de Filmes</title>
+</head>
+<body>
+    <header>
+        <h1>CineSearch</h1>
+        <p>Encontre informações sobre seus filmes favoritos</p>
+        <div class="search-container">
+            <input type="text" placeholder="Digite o nome de um filme, diretor ou gênero...">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="intro-section" id="intro">
+            <div class="intro-content">
+                <h2>Bem-vindo ao CineSearch</h2>
+                <p>Explore nossa base de dados com informações sobre os melhores filmes do cinema.</p>
+                <p>Use a barra de busca acima para encontrar filmes por título, diretor, ano ou gênero.</p>
+            </div>
+        </section>
+
+        <section class="card-container" id="results" style="display: none;">
+            <h3 class="results-title">Resultados da Busca</h3>
+            <div id="cards-wrapper">
+                <!-- Os cards serão gerados dinamicamente pelo JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/LuizAmeida">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.alura.com.br/">Alura</a>
+            </li>
+        </ul>
+        <p class="footer-note">Projeto desenvolvido para a Imersão Dev com Alura e Google</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

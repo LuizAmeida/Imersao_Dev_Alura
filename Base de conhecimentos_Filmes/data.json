@@ -1,0 +1,314 @@
+[
+  {
+    "nome": "O Poderoso Chefão",
+    "descricao": "Clássico do cinema que narra a história da família mafiosa Corleone e sua luta pelo poder, considerado um dos melhores filmes de todos os tempos.",
+    "ano_lancamento": "1972",
+    "diretor": "Francis Ford Coppola",
+    "link_oficial": "https://www.imdb.com/title/tt0068646/",
+    "tags": ["drama", "crime", "clássico", "épico", "máfia"]
+  },
+  {
+    "nome": "Pulp Fiction: Tempo de Violência",
+    "descricao": "Filme cult que entrelaça várias histórias de criminosos de Los Angeles de forma não linear, revolucionando a narrativa cinematográfica.",
+    "ano_lancamento": "1994",
+    "diretor": "Quentin Tarantino",
+    "link_oficial": "https://www.imdb.com/title/tt0110912/",
+    "tags": ["drama", "crime", "cult", "não linear", "violência"]
+  },
+  {
+    "nome": "Matrix",
+    "descricao": "Revolucionário filme de ficção científica sobre um hacker que descobre a verdadeira natureza de sua realidade e sua luta contra as máquinas.",
+    "ano_lancamento": "1999",
+    "diretor": "Lana e Lilly Wachowski",
+    "link_oficial": "https://www.imdb.com/title/tt0133093/",
+    "tags": ["ficção científica", "ação", "cyberpunk", "revolucionário", "filosófico"]
+  },
+  {
+    "nome": "Cidade de Deus",
+    "descricao": "Drama brasileiro que retrata a vida nas favelas do Rio de Janeiro através da história de dois amigos com destinos diferentes.",
+    "ano_lancamento": "2002",
+    "diretor": "Fernando Meirelles",
+    "link_oficial": "https://www.imdb.com/title/tt0317248/",
+    "tags": ["drama", "crime", "brasileiro", "favela", "violência urbana"]
+  },
+  {
+    "nome": "Interestelar",
+    "descricao": "Épico de ficção científica sobre uma equipe de exploradores que viaja através de um buraco de minhoca no espaço em busca de um novo lar para a humanidade.",
+    "ano_lancamento": "2014",
+    "diretor": "Christopher Nolan",
+    "link_oficial": "https://www.imdb.com/title/tt0816692/",
+    "tags": ["ficção científica", "aventura", "espacial", "drama", "viagem no tempo"]
+  },
+  {
+    "nome": "Parasita",
+    "descricao": "Thriller sul-coreano que explora as diferenças de classe através da relação entre duas famílias de diferentes estratos sociais.",
+    "ano_lancamento": "2019",
+    "diretor": "Bong Joon-ho",
+    "link_oficial": "https://www.imdb.com/title/tt6751668/",
+    "tags": ["thriller", "drama", "comédia negra", "sul-coreano", "crítica social"]
+  },
+  {
+    "nome": "A Origem",
+    "descricao": "Filme de ficção científica sobre um ladrão que invade os sonhos das pessoas para roubar segredos corporativos em uma missão impossível.",
+    "ano_lancamento": "2010",
+    "diretor": "Christopher Nolan",
+    "link_oficial": "https://www.imdb.com/title/tt1375666/",
+    "tags": ["ficção científica", "ação", "thriller", "mente", "sonhos"]
+  },
+  {
+    "nome": "Clube da Luta",
+    "descricao": "Filme cult sobre um homem insone que forma um clube de luta clandestino como forma de terapia, criando um movimento anti-consumista.",
+    "ano_lancamento": "1999",
+    "diretor": "David Fincher",
+    "link_oficial": "https://www.imdb.com/title/tt0137523/",
+    "tags": ["drama", "psicológico", "cult", "rebelião", "anti-consumismo"]
+  },
+  {
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "descricao": "Primeiro filme da trilogia baseada na obra de J.R.R. Tolkien, seguindo Frodo em sua jornada para destruir o Um Anel.",
+    "ano_lancamento": "2001",
+    "diretor": "Peter Jackson",
+    "link_oficial": "https://www.imdb.com/title/tt0120737/",
+    "tags": ["fantasia", "aventura", "épico", "trilogia", "medieval"]
+  },
+  {
+    "nome": "Forrest Gump: O Contador de Histórias",
+    "descricao": "Drama que acompanha a vida extraordinária de Forrest Gump, um homem simples que testemunha e influencia eventos históricos importantes.",
+    "ano_lancamento": "1994",
+    "diretor": "Robert Zemeckis",
+    "link_oficial": "https://www.imdb.com/title/tt0109830/",
+    "tags": ["drama", "comédia", "histórico", "emocionante", "romance"]
+  },
+  {
+    "nome": "O Silêncio dos Inocentes",
+    "descricao": "Thriller psicológico sobre uma agente do FBI que busca a ajuda de um psiquiatra canibal para capturar um serial killer.",
+    "ano_lancamento": "1991",
+    "diretor": "Jonathan Demme",
+    "link_oficial": "https://www.imdb.com/title/tt0102926/",
+    "tags": ["thriller", "psicológico", "crime", "suspense", "policial"]
+  },
+  {
+    "nome": "Titanic",
+    "descricao": "Épico romântico que narra o romance entre passageiros de diferentes classes sociais a bordo do famoso navio em sua viagem inaugural.",
+    "ano_lancamento": "1997",
+    "diretor": "James Cameron",
+    "link_oficial": "https://www.imdb.com/title/tt0120338/",
+    "tags": ["romance", "drama", "histórico", "épico", "catástrofe"]
+  },
+  {
+    "nome": "Coringa",
+    "descricao": "Drama psicológico que explora a origem do vilão mais icônico da DC Comics, mostrando sua transformação em um criminoso.",
+    "ano_lancamento": "2019",
+    "diretor": "Todd Phillips",
+    "link_oficial": "https://www.imdb.com/title/tt7286456/",
+    "tags": ["drama", "psicológico", "crime", "super-herói", "origem"]
+  },
+  {
+    "nome": "Os Infiltrados",
+    "descricao": "Thriller policial sobre um policial infiltrado na máfia e um mafioso infiltrado na polícia em um jogo de gato e rato.",
+    "ano_lancamento": "2006",
+    "diretor": "Martin Scorsese",
+    "link_oficial": "https://www.imdb.com/title/tt0407887/",
+    "tags": ["thriller", "crime", "policial", "suspense", "máfia"]
+  },
+  {
+    "nome": "O Rei Leão",
+    "descricao": "Animação clássica da Disney sobre Simba, um jovem leão que deve reclaimar seu trono após a morte de seu pai.",
+    "ano_lancamento": "1994",
+    "diretor": "Roger Allers e Rob Minkoff",
+    "link_oficial": "https://www.imdb.com/title/tt0110357/",
+    "tags": ["animação", "musical", "aventura", "família", "drama"]
+  },
+  {
+    "nome": "Star Wars: Episódio IV - Uma Nova Esperança",
+    "descricao": "Primeiro filme da saga Star Wars que introduz o universo e a luta entre a Aliança Rebelde e o Império Galáctico.",
+    "ano_lancamento": "1977",
+    "diretor": "George Lucas",
+    "link_oficial": "https://www.imdb.com/title/tt0076759/",
+    "tags": ["ficção científica", "aventura", "espacial", "épico", "fantasia"]
+  },
+  {
+    "nome": "De Volta para o Futuro",
+    "descricao": "Comédia de ficção científica sobre um adolescente que viaja acidentalmente no tempo e deve garantir que seus pais se conheçam.",
+    "ano_lancamento": "1985",
+    "diretor": "Robert Zemeckis",
+    "link_oficial": "https://www.imdb.com/title/tt0088763/",
+    "tags": ["ficção científica", "comédia", "aventura", "viagem no tempo", "família"]
+  },
+  {
+    "nome": "O Iluminado",
+    "descricao": "Clássico do terror psicológico sobre um escritor que aceita um emprego como zelador de um hotel isolado durante o inverno.",
+    "ano_lancamento": "1980",
+    "diretor": "Stanley Kubrick",
+    "link_oficial": "https://www.imdb.com/title/tt0081505/",
+    "tags": ["terror", "psicológico", "suspense", "clássico", "sobrenatural"]
+  },
+  {
+    "nome": "Crepúsculo dos Deuses",
+    "descricao": "Drama noir que explora o declínio de uma estrela de cinema do cinema mudo durante a transição para o cinema falado.",
+    "ano_lancamento": "1950",
+    "diretor": "Billy Wilder",
+    "link_oficial": "https://www.imdb.com/title/tt0043014/",
+    "tags": ["drama", "noir", "hollywood", "clássico", "crítica social"]
+  },
+  {
+    "nome": "Psicose",
+    "descricao": "Clássico do terror sobre uma secretária que foge após roubar dinheiro e se hospeda em um motel isolado com um proprietário perturbado.",
+    "ano_lancamento": "1960",
+    "diretor": "Alfred Hitchcock",
+    "link_oficial": "https://www.imdb.com/title/tt0054215/",
+    "tags": ["terror", "suspense", "psicológico", "clássico", "thriller"]
+  },
+  {
+    "nome": "Blade Runner: O Caçador de Androides",
+    "descricao": "Filme de ficção científica noir sobre um caçador de androides em um futuro distópico de Los Angeles.",
+    "ano_lancamento": "1982",
+    "diretor": "Ridley Scott",
+    "link_oficial": "https://www.imdb.com/title/tt0083658/",
+    "tags": ["ficção científica", "noir", "distopia", "cyberpunk", "filosófico"]
+  },
+  {
+    "nome": "O Sexto Sentido",
+    "descricao": "Thriller sobrenatural sobre um psicólogo infantil que tenta ajudar um menino que afirma ver e conversar com mortos.",
+    "ano_lancamento": "1999",
+    "diretor": "M. Night Shyamalan",
+    "link_oficial": "https://www.imdb.com/title/tt0167404/",
+    "tags": ["thriller", "sobrenatural", "drama", "suspense", "mistério"]
+  },
+  {
+    "nome": "Gladiador",
+    "descricao": "Épico histórico sobre um general romano traído que se torna gladiador e busca vingança contra o imperador que matou sua família.",
+    "ano_lancamento": "2000",
+    "diretor": "Ridley Scott",
+    "link_oficial": "https://www.imdb.com/title/tt0172495/",
+    "tags": ["ação", "drama", "histórico", "épico", "Roma Antiga"]
+  },
+  {
+    "nome": "Os Sete Samurais",
+    "descricao": "Clássico japonês sobre uma vila de agricultores que contrata samurais para protegê-los de bandidos saqueadores.",
+    "ano_lancamento": "1954",
+    "diretor": "Akira Kurosawa",
+    "link_oficial": "https://www.imdb.com/title/tt0047478/",
+    "tags": ["ação", "drama", "samurai", "japonês", "clássico"]
+  },
+  {
+    "nome": "O Fabuloso Destino de Amélie Poulain",
+    "descricao": "Comédia romântica francesa sobre uma jovem waitress que decide mudar a vida das pessoas ao seu redor para melhor.",
+    "ano_lancamento": "2001",
+    "diretor": "Jean-Pierre Jeunet",
+    "link_oficial": "https://www.imdb.com/title/tt0211915/",
+    "tags": ["comédia", "romance", "francês", "drama", "whimsical"]
+  },
+  {
+    "nome": "Cidade dos Sonhos",
+    "descricao": "Drama noir sobre três personices cujas vidas se entrelaçam em Los Angeles durante um período de crise na indústria cinematográfica.",
+    "ano_lancamento": "1997",
+    "diretor": "Curtis Hanson",
+    "link_oficial": "https://www.imdb.com/title/tt0119488/",
+    "tags": ["drama", "noir", "crime", "mistério", "hollywood"]
+  },
+  {
+    "nome": "O Labirinto do Fauno",
+    "descricao": "Drama de fantasia sombria que entrelaça a realidade da Guerra Civil Espanhola com um mundo de fantasia mágico.",
+    "ano_lancamento": "2006",
+    "diretor": "Guillermo del Toro",
+    "link_oficial": "https://www.imdb.com/title/tt0457430/",
+    "tags": ["fantasia", "drama", "guerra", "realismo mágico", "sombrio"]
+  },
+  {
+    "nome": "Whiplash: Em Busca da Perfeição",
+    "descricao": "Drama intenso sobre um jovem baterista de jazz e seu relacionamento abusivo com um professor de música exigente.",
+    "ano_lancamento": "2014",
+    "diretor": "Damien Chazelle",
+    "link_oficial": "https://www.imdb.com/title/tt2582802/",
+    "tags": ["drama", "música", "intenso", "perfeccionismo", "relacionamento"]
+  },
+  {
+    "nome": "Drive",
+    "descricao": "Thriller neo-noir sobre um dublê de Hollywood que trabalha como motorista de fuga para criminosos e se envolve com sua vizinha.",
+    "ano_lancamento": "2011",
+    "diretor": "Nicolas Winding Refn",
+    "link_oficial": "https://www.imdb.com/title/tt0780504/",
+    "tags": ["thriller", "neo-noir", "crime", "ação", "estilizado"]
+  },
+  {
+    "nome": "Bacurau",
+    "descricao": "Thriller brasileiro que mistura faroeste e ficção científica sobre uma pequena comunidade no sertão brasileiro sob ataque.",
+    "ano_lancamento": "2019",
+    "diretor": "Juliano Dornelles e Kleber Mendonça Filho",
+    "link_oficial": "https://www.imdb.com/title/tt2762506/",
+    "tags": ["thriller", "brasileiro", "faroeste", "ficção científica", "crítica social"]
+  },
+  {
+    "nome": "Mad Max: Estrada da Fúria",
+    "descricao": "Filme de ação pós-apocalíptico sobre uma fugitiva que junta forças com um andarilho para escapar de um tirano em um deserto árido.",
+    "ano_lancamento": "2015",
+    "diretor": "George Miller",
+    "link_oficial": "https://www.imdb.com/title/tt1392190/",
+    "tags": ["ação", "pós-apocalíptico", "aventura", "estilizado", "fuga"]
+  },
+  {
+    "nome": "O Poço",
+    "descricao": "Thriller de ficção científica espanhol sobre uma prisão vertical onde os prisioneiros em níveis superiores comem melhor que os de baixo.",
+    "ano_lancamento": "2019",
+    "diretor": "Galder Gaztelu-Urrutia",
+    "link_oficial": "https://www.imdb.com/title/tt8228288/",
+    "tags": ["thriller", "ficção científica", "espanhol", "alegoria", "crítica social"]
+  },
+  {
+    "nome": "Cisne Negro",
+    "descricao": "Thriller psicológico sobre uma bailarina que entra em parafuso enquanto se prepara para o papel principal em 'O Lago dos Cisnes'.",
+    "ano_lancamento": "2010",
+    "diretor": "Darren Aronofsky",
+    "link_oficial": "https://www.imdb.com/title/tt0947798/",
+    "tags": ["thriller", "psicológico", "drama", "dança", "obsessão"]
+  },
+  {
+    "nome": "O Grande Hotel Budapeste",
+    "descricao": "Comédia dramática sobre as aventuras de um concierge e seu jovem protégé em um hotel europeu entre-guerras.",
+    "ano_lancamento": "2014",
+    "diretor": "Wes Anderson",
+    "link_oficial": "https://www.imdb.com/title/tt2278388/",
+    "tags": ["comédia", "drama", "aventura", "estilizado", "entre-guerras"]
+  },
+  {
+    "nome": "Arrival: A Chegada",
+    "descricao": "Filme de ficção científica sobre uma linguista recrutada pelo exército para se comunicar com alienígenas que chegaram à Terra.",
+    "ano_lancamento": "2016",
+    "diretor": "Denis Villeneuve",
+    "link_oficial": "https://www.imdb.com/title/tt2543164/",
+    "tags": ["ficção científica", "drama", "linguística", "alienígenas", "filosófico"]
+  },
+  {
+    "nome": "Get Out",
+    "descricao": "Thriller de horror social sobre um jovem negro que visita a família de sua namorada branca e descobre uma verdade perturbadora.",
+    "ano_lancamento": "2017",
+    "diretor": "Jordan Peele",
+    "link_oficial": "https://www.imdb.com/title/tt5052448/",
+    "tags": ["thriller", "horror", "crítica social", "suspense", "racial"]
+  },
+  {
+    "nome": "Django Livre",
+    "descricao": "Faroeste sobre um escravo liberto que se torna caçador de recompensas e tenta resgatar sua esposa de um cruel proprietário de plantação.",
+    "ano_lancamento": "2012",
+    "diretor": "Quentin Tarantino",
+    "link_oficial": "https://www.imdb.com/title/tt1853728/",
+    "tags": ["faroeste", "ação", "drama", "vingança", "escravidão"]
+  },
+  {
+    "nome": "Birdman: ou (A Inesperada Virtude da Ignorância)",
+    "descricao": "Drama satírico sobre um ator famoso por interpretar um super-herói que tenta revitalizar sua carreira em uma peça da Broadway.",
+    "ano_lancamento": "2014",
+    "diretor": "Alejandro G. Iñárritu",
+    "link_oficial": "https://www.imdb.com/title/tt2562232/",
+    "tags": ["drama", "satírico", "hollywood", "metalinguístico", "crítica"]
+  },
+  {
+    "nome": "La La Land: Cantando Estações",
+    "descricao": "Musical romântico sobre um pianista de jazz e uma atriz aspirante que se apaixonam enquanto perseguem seus sonhos em Los Angeles.",
+    "ano_lancamento": "2016",
+    "diretor": "Damien Chazelle",
+    "link_oficial": "https://www.imdb.com/title/tt3783958/",
+    "tags": ["musical", "romance", "drama", "hollywood", "sonhos"]
+  }
+]
